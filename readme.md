@@ -1,12 +1,17 @@
-
 # JavaScript Open Source Apps
 
-<img align="right"width="300px" src="https://github.com/alferov/js-open-source-apps/blob/master/logo.png" alt="JavaScript Open Source Apps">
+<p align="center">
+	<br>
+  <img align="center" width="400px" src="https://github.com/alferov/js-open-source-apps/blob/master/logo.png" alt="JavaScript Open Source Apps">
+	<br>
+	<br>
+	<br>
+</p>
 
-> A curated list of open source real-life JavaScript applications
+> A collection of open source real-life JavaScript applications
 
 ## Contribution
-Please read [the contribution guide](contributing.md)  before submitting a pull request.
+:octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
 
 ## Contents
 
