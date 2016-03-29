@@ -8,7 +8,7 @@
 	<br>
 </p>
 
-> The missing collection of real-world open-source single-page JavaScript applications
+> The missing collection of real-world open-source JavaScript applications
 
 ## Contribution
 :octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
@@ -26,6 +26,7 @@
 * [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) -
 The New & Improved ustwo Website.
 * [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
+* [cerebral/cerebral-reference-app](https://github.com/cerebral/cerebral-reference-app) - A reference application for Cerebral.
 
 ## Applications
 
