@@ -14,6 +14,7 @@
 :octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
 
 ## Contents
+## Applications
 ### Angular
 * [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
@@ -28,9 +29,6 @@ The New & Improved ustwo Website.
 * [christianalfoni/webpack-bin](https://github.com/christianalfoni/webpack-bin) - A webpack code sandbox.
 * [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
 * [cerebral/cerebral-reference-app](https://github.com/cerebral/cerebral-reference-app) - A reference application for Cerebral.
-
-
-## Applications
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
