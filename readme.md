@@ -8,12 +8,24 @@
 	<br>
 </p>
 
-> The missing collection of real-world open-source JavaScript applications
+> The missing collection of real-world open-source single-page JavaScript applications
 
 ## Contribution
 :octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
 
 ## Contents
+### Angular
+* [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
+* [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
+* [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS Web Client for ProtonMail.
+* [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
+
+### React
+* [khan/perseus](https://github.com/khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
+* [ipselon/structor](https://github.com/ipselon/structor) - User interface builder for React.
+* [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) -
+The New & Improved ustwo Website.
+* [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
 
 ## Applications
 
