@@ -8,7 +8,7 @@
 	<br>
 </p>
 
-> A collection of open source real-life JavaScript applications
+> The missing collection of real-world open-source JavaScript applications
 
 ## Contribution
 :octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
