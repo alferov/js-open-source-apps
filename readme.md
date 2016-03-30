@@ -14,6 +14,10 @@
 :octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
 
 ## Contents
+- [Applications](#applications)
+  - [Angular](#angular)
+  - [React](#react)
+
 ## Applications
 ### Angular
 * [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
