@@ -29,6 +29,7 @@ The New & Improved ustwo Website.
 * [christianalfoni/webpack-bin](https://github.com/christianalfoni/webpack-bin) - A webpack code sandbox.
 * [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
 * [cerebral/cerebral-reference-app](https://github.com/cerebral/cerebral-reference-app) - A reference application for Cerebral.
+* [scup/atellier](https://github.com/scup/atellier) - The smartest way to share interactive components with your team.
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
