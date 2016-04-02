@@ -27,7 +27,8 @@
 * [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
 
 ### Ember
-* [TryGhost/Ghost](https://github.com/TryGhost/Ghost/tree/master/core) - Just a blogging platform.
+* [TryGhost/Ghost](https://github.com/TryGhost/Ghost/tree/master/core) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
+* [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - An Ember based electronic medical records system for hospitals in developing countries.
 
 ### React
 * [khan/perseus](https://github.com/khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
