@@ -39,15 +39,17 @@
 
 ### React
 * [khan/perseus](https://github.com/khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
-* [ipselon/structor](https://github.com/ipselon/structor) - User interface builder for React.
 * [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) -
 The new & improved ustwo website.
 * [christianalfoni/webpack-bin](https://github.com/christianalfoni/webpack-bin) - A webpack code sandbox.
-* [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
 * [cerebral/cerebral-reference-app](https://github.com/cerebral/cerebral-reference-app) - A reference application for Cerebral.
 * [scup/atellier](https://github.com/scup/atellier) - The smartest way to share interactive components with your team.
 * [voronianski/esnextbin](https://github.com/voronianski/esnextbin) - Create browser programs in ES2015 code and import modules from NPM in browser.
 * [kadirahq/react-storybook](https://github.com/kadirahq/react-storybook) - Isolate your React UI Component development from the main app.
+
+#### React with Redux
+* [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
+* [ipselon/structor](https://github.com/ipselon/structor) - User interface builder for React.
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
