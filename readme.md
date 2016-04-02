@@ -16,6 +16,7 @@
 ## Contents
 - [Applications](#applications)
   - [Angular](#angular)
+	- [Ember](#ember)
   - [React](#react)
 
 ## Applications
@@ -24,6 +25,9 @@
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
 * [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS Web Client for ProtonMail.
 * [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
+
+### Ember
+* [TryGhost/Ghost](https://github.com/TryGhost/Ghost/tree/master/core) - Just a blogging platform.
 
 ### React
 * [khan/perseus](https://github.com/khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
