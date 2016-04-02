@@ -22,7 +22,7 @@
 
 ## Applications
 ### Legend:
-:link: - A link to another resource
+[:link:] - a link to another resource;
 
 ### Angular
 * [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
@@ -31,7 +31,7 @@
 * [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
 
 ### Electron
-* [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron#open-source) - Some good apps written with Electron. [:link:]
+* [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron#open-source) - Some good apps written with Electron [:link:].
 
 ### Ember
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost/tree/master/core) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
