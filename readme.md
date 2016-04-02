@@ -16,10 +16,13 @@
 ## Contents
 - [Applications](#applications)
   - [Angular](#angular)
-	- [Ember](#ember)
+  - [Ember](#ember)
   - [React](#react)
 
 ## Applications
+### Legend:
+:link: - A link to another resource
+
 ### Angular
 * [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
