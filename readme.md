@@ -16,6 +16,7 @@
 ## Contents
 - [Applications](#applications)
   - [Angular](#angular)
+  - [Electron](#electron)
   - [Ember](#ember)
   - [React](#react)
 
@@ -28,6 +29,9 @@
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
 * [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS Web Client for ProtonMail.
 * [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
+
+### Electron
+* [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron#open-source) - Some good apps written with Electron. [:link:]
 
 ### Ember
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost/tree/master/core) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
