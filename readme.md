@@ -58,6 +58,7 @@ The new & improved ustwo website.
 Dribbble app built with React Native.
 * [jhabdas/lumpen-radio](https://github.com/jhabdas/lumpen-radio) -
 React Native iOS app for WLPN 105.5 Chicago.
+* [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - iOS's Stocks App clone written in React Native for demo purpose.
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
