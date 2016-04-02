@@ -19,7 +19,7 @@
   - [Electron](#electron)
   - [Ember](#ember)
   - [React](#react)
-
+  - [React Native](#react-native)
 ## Applications
 ### Legend:
 [:link:] - a link to another resource;
@@ -50,6 +50,9 @@ The new & improved ustwo website.
 #### React with Redux
 * [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
 * [ipselon/structor](https://github.com/ipselon/structor) - User interface builder for React.
+
+### React Native
+* [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and android app - made with React Native.
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
