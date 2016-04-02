@@ -21,10 +21,10 @@
   - [React](#react)
   - [React Native](#react-native)
 
-## Applications
-### Legend:
+## Legend:
 [:link:] - a link to another resource;
 
+## Applications
 ### Angular
 * [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
