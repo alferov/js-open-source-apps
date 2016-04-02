@@ -56,11 +56,16 @@ The new & improved ustwo website.
 * [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and android app - made with React Native.
 * [catalinmiron/react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) -
 Dribbble app built with React Native.
+* [asamiller/den](https://github.com/asamiller/den) - iPhone app built with React Native for viewing houses for sale in the Northwest.
+
+#### React Native with Redux
+* [wwayne/react-native-nba-app](https://github.com/wwayne/react-native-nba-app) - An app that shows some basic information for NBA basketball league.
+
+#### React Native with Reflux
 * [jhabdas/lumpen-radio](https://github.com/jhabdas/lumpen-radio) -
 React Native iOS app for WLPN 105.5 Chicago.
 * [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - iOS's Stocks App clone written in React Native.
-* [wwayne/react-native-nba-app](https://github.com/wwayne/react-native-nba-app) - An app that shows some basic information for NBA basketball league.
-* [asamiller/den](https://github.com/asamiller/den) - iPhone app built with React Native for viewing houses for sale in the Northwest.
+
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
