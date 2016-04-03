@@ -26,7 +26,7 @@
 
 ## Applications
 ### Angular
-* [elastic/kibana](https://github.com/elastic/kibana/blob/master/package.json) - Kibana analytics and search dashboard for Elasticsearch.
+* [elastic/kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
 * [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS Web Client for ProtonMail.
 * [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
@@ -35,7 +35,7 @@
 * [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron#open-source) - Some good apps written with Electron [:link:].
 
 ### Ember
-* [TryGhost/Ghost](https://github.com/TryGhost/Ghost/tree/master/core) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
+* [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
 * [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - An Ember based electronic medical records system for hospitals in developing countries.
 
 ### React
@@ -65,7 +65,6 @@ Dribbble app built with React Native.
 * [jhabdas/lumpen-radio](https://github.com/jhabdas/lumpen-radio) -
 React Native iOS app for WLPN 105.5 Chicago.
 * [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - iOS's Stocks App clone written in React Native.
-
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
