@@ -51,6 +51,7 @@ The new & improved ustwo website.
 #### React with Redux
 * [WebbyLab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall) - Isomorphic application written in React.
 * [ipselon/structor](https://github.com/ipselon/structor) - User interface builder for React.
+* [mozilla/payments-ui](https://github.com/mozilla/payments-ui) - The Mozilla Payments frontend interface.
 
 ### React Native
 * [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and android app - made with React Native.
