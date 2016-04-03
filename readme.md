@@ -33,6 +33,10 @@
 
 ### Electron
 * [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron#open-source) - Some good apps written with Electron [:link:].
+* [atom/atom](https://github.com/atom/atom) - The hackable text editor.
+* [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows.
+* [facebook/nuclide](https://github.com/facebook/nuclide) - An open IDE for web and native mobile development, built on top of Atom.
+* [Microsoft/vscode](Microsoft/vscode) - Visual Studio Code.
 
 ### Ember
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
