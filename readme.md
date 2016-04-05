@@ -1,12 +1,12 @@
-# JavaScript Open Source Apps
-
 <p align="center">
   <br>
-  <img align="center" width="400px" src="https://github.com/alferov/js-open-source-apps/blob/master/logo.png" alt="JavaScript Open Source Apps">
+  <img align="center" width="300px" src="https://github.com/alferov/js-open-source-apps/blob/master/logo.png" alt="JavaScript Open Source Apps">
   <br>
   <br>
   <br>
 </p>
+
+## JavaScript Open Source Apps
 
 > The missing collection of real-world open-source JavaScript applications
 
