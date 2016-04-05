@@ -6,20 +6,22 @@
   <br>
 </p>
 
-## JavaScript Open Source Apps
-
 > The missing collection of real-world open-source JavaScript applications
 
 ## Contribution
 :octocat: Please read [the contribution guide](contributing.md)  before submitting a pull request.
 
 ## Contents
-- [Applications](#applications)
-  - [Angular](#angular)
-  - [Electron](#electron)
-  - [Ember](#ember)
-  - [React](#react)
-  - [React Native](#react-native)
+- [Angular](#angular)
+- [Angular 2](#angular-2)
+- [Aurelia](#aurelia)
+- [Backbone](#backbone)
+- [Electron](#electron)
+- [Ember](#ember)
+- [React](#react)
+- [React Native](#react-native)
+- [Vanilla](#vanilla)
+- [Vue](#vue)
 
 ## Legend:
 [:link:] - a link to another resource;
@@ -30,6 +32,15 @@
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
 * [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS Web Client for ProtonMail.
 * [victorantos/AngJobs](https://github.com/victorantos/AngJobs) - Job board for Angular developers.
+
+### Angular 2
+*No content yet*
+
+### Aurelia
+*No content yet*
+
+### Backbone
+*No content yet*
 
 ### Electron
 * [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron#open-source) - Some good apps written with Electron [:link:].
@@ -70,6 +81,12 @@ Dribbble app built with React Native.
 * [jhabdas/lumpen-radio](https://github.com/jhabdas/lumpen-radio) -
 React Native iOS app for WLPN 105.5 Chicago.
 * [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - iOS's Stocks App clone written in React Native.
+
+### Vanilla
+*No content yet*
+
+### Vue
+*No content yet*
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
